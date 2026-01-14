@@ -7,11 +7,11 @@ require (
 	github.com/alibabacloud-go/sts-20150401 v1.1.2
 	github.com/alibabacloud-go/tea v1.3.14
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
+	github.com/google/uuid v1.6.0
 	github.com/huaweicloud/huaweicloud-sdk-go-obs v3.25.9+incompatible
 	github.com/huaweicloud/huaweicloud-sdk-go-v3 v0.1.180
 	github.com/minio/minio-go/v6 v6.0.57
 	github.com/pkg/errors v0.9.1
-	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.11.1
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
